@@ -15,7 +15,8 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 ### FRAMEWORKS
 
-
+<img img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+          
 
 ### TOOLS
 
