@@ -9,13 +9,12 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 ### LANGUAGES
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
+
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
-
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
 
+<br />
 <br />
 
 ### FRAMEWORKS
@@ -28,6 +27,7 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 <img img align="left" alt="TailwindCSS" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
+<br />
 <br />
 
 ### TOOLS
