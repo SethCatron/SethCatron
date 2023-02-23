@@ -1,11 +1,11 @@
 <!--
 **SethCatron/SethCatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Seth M. Catron
+# 🌱 Seth M. Catron
 
 **Entry-Level Software Developer - Recent College Graduate**
 
-### WHO AM I?
+### ⚡ WHO AM I?
 I am a full-stack developer with Bachelor of Arts in Computing from Texas A&M University. The amalgamation of my passion for science and technology, and the gratifying feeling of delivering successful project outcomes led me to software engineering. My college curriculum exposed me to various languages, tools, frameworks, and tech stacks, allowing me to hone my problem-solving skills in software development and develop a unique style fueled by my love of challenge and learning new techniques. On the other hand, my personal journey of overcoming health challenges ignited a deep interest in holistic health and wellness, which has inspired me to seek further knowledge and expertise in this field. My aspiration is to pursue software development within the biotechnology, holistic health/wellness, or space/defense industry, with the goal of blending my programming skills with innovative advancements that go against the grain.
 
 <hr />
