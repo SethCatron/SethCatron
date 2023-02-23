@@ -4,8 +4,7 @@
 
 I'm a full-stack developer who just graduated from Texas A&M University with a Bachelor of Arts in Computing. Not only do I have an affinity for software, but I also love health and wellness. Most of my projects are from university courses where I was constantly learning new languages/tools/frameworks and tech stacks, having fun with challenging assignments, and improving my approach to problem solving in a software space.
 
-<br />
-<br /> 
+<hr />
 
 ### LANGUAGES
 
@@ -18,7 +17,6 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
           
 
 <br />
-<hr />
 
 ### FRAMEWORKS
 
@@ -31,7 +29,6 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 <img img align="left" alt="TailwindCSS" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
 <br />
-<hr />
 
 ### TOOLS
 
@@ -39,6 +36,7 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 <img align="left" alt="CMake" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
 
+<hr />
 <!--
 **SethCatron/SethCatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
