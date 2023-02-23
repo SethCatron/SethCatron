@@ -46,6 +46,9 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 <img align="left" alt="OpenGL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 
+<img align="left" alt="Tensorflow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+          
+
 <br />
 <br />
 
@@ -61,6 +64,9 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 <br />
 <br />
+
+### 📫 How to reach me?
+- [LinkedIn](https://www.linkedin.com/in/seth-catron)
 <!--
 **SethCatron/SethCatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
