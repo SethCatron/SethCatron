@@ -46,7 +46,8 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 <img align="left" alt="OpenGL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 
-
+<br />
+<br />
 
 ### TOOLS
 
