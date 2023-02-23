@@ -1,4 +1,12 @@
-### Hi there 👋
+# Seth M. Catron
+
+**Entry-Level Software Developer - Recent College Graduate**
+
+I'm a full-stack developer who just graduated from Texas A&M University with a Bachelor of Arts in Computing. Not only do I have an affinity for software, but I also love health and wellness. Most of my projects are from university courses where I was constantly learning new languages/tools/frameworks and tech stacks, having fun with challenging assignments, and improving my approach to problem solving in a software space.
+
+### Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="httpse//cdn-jsdelivrcon/icons/Spring/Spring-original.svg"/>
 
 <!--
 **SethCatron/SethCatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
