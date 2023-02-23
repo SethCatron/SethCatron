@@ -14,6 +14,8 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 <br />
 <br />
 
@@ -36,6 +38,8 @@ I'm a full-stack developer who just graduated from Texas A&M University with a B
 
 <img align="left" alt="CMake" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
 
+<br />
+<br />
 <!--
 **SethCatron/SethCatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
