@@ -30,8 +30,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 
 <img align="left" alt="Haskell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 
-<br />
-<br />
+<hr />
 
 ### Frameworks:
 
@@ -43,8 +42,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 
 <img align="left" alt="TailwindCSS" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
-<br />
-<br />
+<hr />
 
 ### Notable APIs/Libraries:
 
@@ -53,8 +51,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
           
 
-<br />
-<br />
+<hr />
 
 ### Tools:
 
@@ -66,8 +63,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 
 <img align="left" alt="CMake" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
 
-<br />
-<br />
+<hr />
 
 ### 📫 Reach Me Here!
 - [Linkedin](https://www.linkedin.com/in/seth-catron)
