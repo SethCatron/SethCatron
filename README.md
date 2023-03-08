@@ -31,10 +31,6 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 <img align="left" alt="Haskell" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 
 <br />
-
-#### Python, C++, C, JavaScript, Java, PostgreSQL, HTML5, CSS, Haskell
-
-<br />
 <br />
 <hr />
 
