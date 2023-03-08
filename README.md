@@ -5,12 +5,12 @@
 
 **Entry-Level Software Developer - Recent College Graduate**
 
-### ⚡ WHO AM I?
+### ⚡ Who am I?
 I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M University. The amalgamation of my passion for science and technology, and the gratifying feeling of delivering successful project outcomes led me to software engineering. My college curriculum exposed me to various languages, tools, frameworks, and tech stacks, allowing me to hone my problem-solving skills in software development and develop a unique style fueled by my love of challenge and learning new techniques. On the other hand, my personal journey of overcoming health challenges ignited a deep interest in applying a holistic approach to various facets of my life. My aspiration is to pursue software development within the biotechnology, health/wellness, or space/defense industry, with the goal of blending my programming skills with innovative advancements that go against the grain.
 
 <hr />
 
-### LANGUAGES
+### Languages:
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
@@ -33,7 +33,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 <br />
 <br />
 
-### FRAMEWORKS
+### Frameworks:
 
 <img align="left" alt="React.js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
@@ -46,7 +46,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 <br />
 <br />
 
-### Notable APIs/Libraries
+### Notable APIs/Libraries:
 
 <img align="left" alt="OpenGL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 
@@ -56,7 +56,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 <br />
 <br />
 
-### TOOLS
+### Tools:
 
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
