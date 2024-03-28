@@ -3,10 +3,10 @@
 -->
 # 🌱 Seth M. Catron
 
-**Entry-Level Software Developer - Recent College Graduate**
+**Software Engineer/Developer - Recent College Graduate**
 
 ### ⚡ WHO AM I?
-I am a full-stack developer with Bachelor of Arts in Computing from Texas A&M University. The amalgamation of my passion for science and technology, and the gratifying feeling of delivering successful project outcomes led me to software engineering. My college curriculum exposed me to various programming languages, tools, frameworks, and tech stacks, allowing me to hone my problem-solving skills in software development and develop a unique style fueled by my love of challenge and learning new techniques. On the other hand, my personal journey overcoming health challenges has inspired my extraneous interests of holistic health and wellness. My aspiration is to pursue a career within software development/engineering, blending my programming skills with innovative advancements that go against the grain. 
+I recently graduated with a Bachelor of Arts in Computing from Texas A&M University! My passion for advancements in science and technology, coupled with the gratifying feeling of delivering successful project outcomes, led me to software engineering. My college curriculum equipped me with foundational engineering skills in object-oriented programming, machine learning, data science, full-stack web development, digital logic & circuit design, and advanced mathematics. During my internship, I reverse engineered Mi-24 Hind helicopter components, programmed a Teensy 4.1 microcontroller to facilitate new pilot interfaces, and established an embedded system architecture for hardware/software integration, reinforcing my devotion for engineering software. My aspiration is to blend programming with innovative techniques to pioneer solutions beyond imagination. Additionally, I am a military spouse and proud dog dad!
 
 <hr />
 
