@@ -5,8 +5,8 @@
 
 **Entry-Level Software Developer - Recent College Graduate**
 
-### ⚡ Who am I?
-I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M University. The amalgamation of my passion for science and technology, and the gratifying feeling of delivering successful project outcomes led me to software engineering. My college curriculum exposed me to various languages, tools, frameworks, and tech stacks, allowing me to hone my problem-solving skills in software development and build a unique style fueled by my love of challenge and learning new techniques. Additionally, overcoming health challenges ignited a deep interest in applying a holistic approach to various facets of my life. I aspire to pursue software development with innovative advancements that go against the grain.
+### ⚡ WHO AM I?
+I am a full-stack developer with Bachelor of Arts in Computing from Texas A&M University. The amalgamation of my passion for science and technology, and the gratifying feeling of delivering successful project outcomes led me to software engineering. My college curriculum exposed me to various programming languages, tools, frameworks, and tech stacks, allowing me to hone my problem-solving skills in software development and develop a unique style fueled by my love of challenge and learning new techniques. On the other hand, my personal journey overcoming health challenges has inspired my extraneous interests of holistic health and wellness. My aspiration is to pursue a career within software development/engineering, blending my programming skills with innovative advancements that go against the grain. 
 
 <hr />
 
@@ -22,7 +22,7 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-<img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
@@ -54,7 +54,12 @@ I am a full-stack developer with a Bachelor of Arts in Computing from Texas A&M 
 <img align="left" alt="OpenGL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 
 <img align="left" alt="Tensorflow" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    
+
+<img align="left" alt="NumPy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+
+
+          
+
 <br />
 <br />
 <hr />
