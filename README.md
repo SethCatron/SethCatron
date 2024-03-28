@@ -74,7 +74,9 @@ I am a full-stack developer with Bachelor of Arts in Computing from Texas A&M Un
 
 <img align="left" alt="Bash" width="40px" title="Bash" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
-<img align="left" alt="VS Code" width="40px" title="VS Code" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VS Code" width="40px" title="VS Code" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="Docker" width="40px" title="Docker" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
 <img align="left" alt="Heroku" width="40px" title="Heroku" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 
