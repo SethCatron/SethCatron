@@ -57,6 +57,8 @@ I am a full-stack developer with Bachelor of Arts in Computing from Texas A&M Un
 
 <img align="left" alt="NumPy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 
+<img align="left" alt="pandas" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
 
           
 
