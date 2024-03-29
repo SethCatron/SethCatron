@@ -59,9 +59,11 @@ I recently graduated with a Bachelor of Arts in Computing from Texas A&M Univers
 
 <img align="left" alt="NumPy" width="40px" title="NumPy" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 
+<img align="left" alt="scikitlearn" width="40px" title="scikitlearn" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
 <img align="left" alt="pandas" width="40px" title="pandas" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
-<img align="left" alt="scikitlearn" width="40px" title="scikitlearn" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
 
 
 
